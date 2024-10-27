@@ -1,1 +1,1 @@
-SMS Spam Classifier - simple
+SMS Spam Classifier - Using Bag-of-Words model
